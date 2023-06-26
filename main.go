@@ -1,6 +1,5 @@
 /*
 Copyright © 2023 PAVEL STULNIKOV
-
 */
 package main
 
