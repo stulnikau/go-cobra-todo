@@ -1,4 +1,4 @@
-module github.com/stulnikau/go-cobra-todo
+module github.com/stulnikau/todo
 
 go 1.20
 
